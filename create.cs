@@ -12,6 +12,7 @@ public class create : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        //dfdfdfdsfffsdajdaskdasjkdhasdkadhaskdkjahkdjhakjdkasdjashdjah
         Debug.Log(lastObj.gameObject.name);
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
